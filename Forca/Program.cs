@@ -163,10 +163,4 @@ class Program
         }
         return false;
     }
-
-    static void testaLetras()
-    {
-
-    }
-    
  }
