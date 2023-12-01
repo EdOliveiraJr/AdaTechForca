@@ -1,17 +1,15 @@
 ﻿using System;
 using System.ComponentModel;
 
+using Forca;
+
 class Program
 {
     static void Main()
     {
-        // Palavras disponíveis no jogo
-        string[] palavras = { "programacao", "computador", "desenvolvimento", "openai", "linguagem" };
+        Dicionario dicionario = new Dicionario();
 
-        // Escolha aleatória de uma palavra
-        Random random = new Random();
-        int indicePalavra = random.Next(0, palavras.Length);
-        string palavraSelecionada = palavras[indicePalavra];
+        string palavraSelecionada = dicionario.sorteiaPalavra(); 
 
         // Inicialização do jogo
         char[] letrasDescobertas = new char[palavraSelecionada.Length];
@@ -78,7 +76,7 @@ class Program
     }
     static void DesenharForca(int tentativasRestantes)
     {
-        Console.Clear();
+       /* Console.Clear();*/
 
         Console.WriteLine("Tentativas restantes: " + tentativasRestantes);
 

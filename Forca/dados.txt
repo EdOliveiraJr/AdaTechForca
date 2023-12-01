@@ -1,0 +1,636 @@
+maca
+banana
+morango
+abacaxi
+uva
+pera
+manga
+pessego
+melancia
+kiwi
+mamao
+laranja
+goiaba
+limao
+abacate
+cereja
+figo
+amora
+framboesa
+mirtilo
+abiu
+acerola
+caju
+carambola
+caqui
+guarana
+jaca
+jambo
+maracuja
+pequi
+pitanga
+nectarina
+pinheiro
+coco
+goiaba
+pinhao
+marolo
+abrico
+sapoti
+tamarindo
+pupunha
+cupuacu
+graviola
+siriguela
+tangerina
+umbu
+cacau
+medico
+professor
+engenheiro
+advogado
+cientista
+escritor
+chef
+musico
+ator
+artista
+policial
+bombeiro
+programador
+designer
+jornalista
+agricultor
+carpinteiro
+motorista
+enfermeiro
+arquiteto
+economista
+psicologo
+terapeuta
+piloto
+dentista
+veterinario
+contador
+analista
+consultor
+tecnico
+cirurgiao
+fotografo
+pintor
+escultor
+marceneiro
+soldador
+pedreiro
+agente
+psiquiatra
+analista de sistemas
+biologo
+geologo
+sociologo
+antropologo
+filosofo
+matematico
+estatistico
+fisico
+quimico
+odontologo
+enfermeira
+cientista politico
+marinheiro
+arqueologo
+diretor de cinema
+escritor
+editor
+coreografo
+camareiro
+maquiador
+estilista
+piloto de aviao
+piloto de helicoptero
+locutor
+comissario de bordo
+operador de maquinas
+engenheiro civil
+engenheiro eletrico
+engenheiro mecanico
+engenheiro quimico
+engenheiro de software
+engenheiro ambiental
+engenheiro aeroespacial
+engenheiro agronomo
+engenheiro de producao
+engenheiro eletronico
+engenheiro de petroleo
+engenheiro de minas
+engenheiro de controle e automacao
+engenheiro de biomedicina
+engenheiro de materiais
+engenheiro de alimentos
+engenheiro de telecomunicacoes
+engenheiro florestal
+engenheiro naval
+feliz
+triste
+inteligente
+engracado
+generoso
+corajoso
+gentil
+curioso
+otimista
+pessimista
+paciente
+impaciente
+amigavel
+timido
+extrovertido
+criativo
+organizado
+bagunceiro
+talentoso
+preguicoso
+honesto
+determinado
+carinhoso
+sincero
+humilde
+vaidoso
+ousado
+modesto
+ousado
+modesto
+independente
+conformado
+alegre
+desanimado
+energico
+relaxado
+preocupado
+sociavel
+solitario
+gracioso
+sensato
+teimoso
+apaixonado
+entusiasta
+tranquilo
+temeroso
+ousado
+reflexivo
+compreensivo
+reservado
+comunicativo
+perspicaz
+pontual
+meticuloso
+resiliente
+solidario
+engenhoso
+sagaz
+despreocupado
+habilidoso
+perseverante
+audacioso
+cuidadoso
+inovador
+prestativo
+sereno
+dinamico
+indulgente
+justo
+grato
+compreensivo
+comprometido
+observador
+agradecido
+altruista
+apreciativo
+articulado
+assertivo
+atencioso
+capaz
+coerente
+confiavel
+diplomatico
+eficiente
+eficaz
+equilibrado
+experiente
+firme
+harmonioso
+imparcial
+justo
+logico
+perseverante
+resiliente
+responsavel
+sabio
+sensato
+tolerante
+versatil
+vibrante
+brasil
+estados unidos
+franca
+alemanha
+japao
+china
+russia
+india
+canada
+australia
+mexico
+italia
+espanha
+argentina
+africa do sul
+suecia
+noruega
+nova zelandia
+coreia do sul
+portugal
+reino unido
+suica
+holanda
+belgica
+finlandia
+dinamarca
+noruega
+islandia
+ira
+iraque
+afeganistao
+paquistao
+bangladesh
+sri lanka
+nepal
+butao
+maldivas
+tailandia
+malasia
+singapura
+indonesia
+fiji
+papua nova guine
+timor leste
+camboja
+filipinas
+vietna
+laos
+ porto alegre
+ florianopolis
+ curitiba
+ campo grande
+ cuiaba
+ goiana
+ são paulo
+ rio de janeiro
+ vitoria
+ belo horizonte
+ salvador
+ aracaju
+ maceió
+ recife
+ joao pessoa
+ natal
+ teresina
+ fortaleza
+ sao luiz
+ manaus
+ belem
+ macapa
+ boa vista
+ rio branco
+ porto velho
+ palmas
+ fortaleza
+ aracati
+ jijoca de jericoacoara
+ mossoro
+ sobral
+ crato
+ juazeiro do norte
+ teresina
+ parnaiba
+ piauí
+ sao luis
+ imperatriz
+ caxias
+ manaus
+ manacapuru
+ parintins
+ itacoatiara
+ tapauá
+ santarem
+ altamira
+ maraba
+ parauapebas
+ abidos
+ macapa
+ santana
+ laranjal do jari
+ boa vista
+ rorainopolis
+ alvorada do norte
+ porto alegre do norte
+ anapolis
+ goiania
+ aparecida de goiania
+ anapolis
+ goiania
+ aparecida de goiania
+ goias
+ catalao
+ jatai
+ rio verde
+ itumbiara
+ formosa
+ luziania
+ entorno
+leonardo da vinci
+frida kahlo
+vincent van gogh
+pablo picasso
+michael jackson
+beyonce
+david bowie
+quentin tarantino
+steven spielberg
+lady gaga
+ed sheeran
+adele
+leonardo dicaprio
+scarlett johansson
+tom hanks
+angelina jolie
+cate blanchett
+cristiano ronaldo
+lionel messi
+william shakespeare
+jane austen
+charles dickens
+leo tolstoy
+george orwell
+jorge luis borges
+gabriel garcia marquez
+marcel proust
+emily bronte
+mark twain
+edgar allan poe
+fyodor dostoevsky
+virginia woolf
+gustave flaubert
+anton chekhov
+james joyce
+guimaraes rosa
+clarice lispector
+machado de assis
+castro alves
+camoes
+gil vicente
+graciliano ramos
+eça de queiros
+jose saramago
+luis de camoes
+pizza
+sushi
+churrasco
+lasanha
+feijoada
+hamburguer
+salada
+sorvete
+chocolate
+macarrao
+arroz
+pao
+frango
+peixe
+sopa
+batata frita
+sanduiche
+camarao
+carne de porco
+ensopado
+tacos
+paella
+ramen
+kebab
+guacamole
+cuscuz
+acaraje
+pamonha
+baiao de dois
+coxinha
+kibe
+pastel
+empada
+acaraje
+brigadeiro
+beijinho
+quindim
+caipirinha
+moqueca
+acaraje
+pão de queijo
+coxinha
+kibe
+pastel
+empada
+brigadeiro
+beijinho
+quindim
+caipirinha
+moqueca
+caldo verde
+pate
+fondue
+tapioca
+vatapa
+croissant
+souffle
+merengue
+cozido
+bacalhau
+picanha
+pastel de nata
+aligot
+couscous
+gnocchi
+pavlova
+salmao gravlax
+celular
+computador
+livro
+oculos
+relogio
+caneta
+cadeira
+mesa
+carro
+bicicleta
+camera
+chave
+bolsa
+sapato
+sofa
+escova
+copo
+garfo
+faca
+colher
+cabeça
+olhos
+nariz
+boca
+orelhas
+pescoco
+ombros
+bracos
+maos
+dedos
+peito
+barriga
+costas
+quadril
+pernas
+joelhos
+pes
+dedos
+unhas
+rapidamente
+lentamente
+felizmente
+tristemente
+claramente
+facilmente
+lentamente
+sinceramente
+silenciosamente
+cuidadosamente
+alegremente
+calmamente
+repentinamente
+frequentemente
+raramente
+bruscamente
+graciosamente
+suavemente
+ansiosamente
+energeticamente
+agora
+sempre
+nunca
+bem
+depressa
+devagar
+muito
+pouco
+bastante
+quase
+longe
+perto
+antes
+depois
+elefante
+girafa
+leao
+tigre
+urso
+lobo
+hipopotamo
+rinoceronte
+gorila
+orangotango
+macaco
+chimpanze
+jacare
+crocodilo
+gavial
+panda
+cavalo
+vaca
+porco
+ovelha
+cabra
+camelo
+dromedario
+lhama
+alpaca
+gato
+cachorro
+rato
+esquilo
+coelho
+lebre
+furao
+raposa
+urso_polar
+lontra
+leopardo
+jaguar
+ocelote
+cheetah
+guaxinim
+morsa
+foca
+leao_marinho
+baleia
+golfinho
+orca
+tubarao
+arraia
+peixe_espada
+espada
+salmao
+truta
+tucunare
+piranha
+pirarucu
+surubim
+tilapia
+pintado
+pescada
+preguica
+formiga
+abelha
+vespa
+mosquito
+borboleta
+libelula
+grilo
+gafanhoto
+abelhao
+cupim
+aranha
+escorpiao
+camundongo
+quati
+arara
+papagaio
+tucano
+sabiá
+gralha
+coruja
+aguia
+falcao
+pelicano
+pavao
+avestruz
+ema
+cisne
+pato
+ganso
+peru
+galinha
+galo
+pavao
+avestruz
+ema
+cisne
+pato
+ganso
+peru
+galinha
+galo
